@@ -1,7 +1,5 @@
 # Hey Folks, Polarity here
 
-[![Patreon](https://polarity.me/img/social-patreon.png)](https://www.patreon.com/bePatron?u=3607665)
-
 I’m Robert, or better known as [Polarity](https://polarity.me). I started making music on the computer sometime in the early ’90s. Back then, people didn’t really take it seriously – real music was something you made in expensive studios with fancy gear and professional musicians. That feels like a lifetime ago, and now it’s pretty much the other way around.
 
 Anyway, what you’ll find here are tools I’ve built for other tools. A lot of it is [presets](https://github.com/polarity/polarity-music-tools) for synths or DAWs like Bitwig. More recently, I’ve been working on [controller scripts for Bitwig](https://github.com/polarity/polarity-music-tools/tree/master/ControllerScripts) too, you can do some pretty cool stuff with those.
