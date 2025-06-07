@@ -13,3 +13,8 @@ Some of the older repos are leftovers from my time as a full-time freelance web 
 - My Music released on [polarity.bandcamp](https://polarity.bandcamp.com/) - Drum & Bass and Ambient
 - Join [my stupid Discord](https://discord.com/invite/eWwFBww), im Online everyday
 - My main [Youtube Channel](https://www.youtube.com/@PolarityMusic), Bitwig and other Tutorials every other day
+
+## Dope Projects I Like
+- [OpenDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation
+- [PlugData](https://github.com/plugdata-team/plugdata) - modern vst/clap plugin version of PureData. OpenSource & Free!
+- [tiagolr](https://github.com/tiagolr) - Home of [RipplerX](https://github.com/tiagolr/ripplerx), [Filt-R](https://github.com/tiagolr/filtr), [Gate-12](https://github.com/tiagolr/gate12) and [Time-12](https://github.com/tiagolr/time12)
